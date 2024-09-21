@@ -1,0 +1,34 @@
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingBLL.deps.json
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingBLL.pdb
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\bin\Debug\net8.0\DTOs.dll
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingDAL.pdb
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.csproj.AssemblyReference.cache
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.AssemblyInfoInputs.cache
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.AssemblyInfo.cs
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\OrderPro.D4F75953.Up2Date
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\refint\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.pdb
+C:\Users\Zohaib\source\repos\OrderProcessingBLL\obj\Debug\net8.0\ref\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingBLL.deps.json
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingBLL.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\bin\Debug\net8.0\DTOs.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\bin\Debug\net8.0\OrderProcessingDAL.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.csproj.AssemblyReference.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.AssemblyInfoInputs.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.AssemblyInfo.cs
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\OrderPro.D4F75953.Up2Date
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\refint\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\OrderProcessingBLL.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingBLL\obj\Debug\net8.0\ref\OrderProcessingBLL.dll

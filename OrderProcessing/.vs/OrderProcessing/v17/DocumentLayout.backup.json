@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347B18DE-3494-4071-9CF4-E69F68F43F49}|..\\OrderProcessingTests\\OrderProcessingTests.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessingtests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CE59EB-C345-415D-B887-D29CD4EEB73F}|OrderProcessing.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CE59EB-C345-415D-B887-D29CD4EEB73F}|OrderProcessing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7CB71-4473-449B-9089-0E9D1B83A46A}|..\\OrderProcessingDAL\\OrderProcessingDAL.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessingdal\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CE59EB-C345-415D-B887-D29CD4EEB73F}|OrderProcessing.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessing\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CE59EB-C345-415D-B887-D29CD4EEB73F}|OrderProcessing.csproj|solutionrelative:application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F373540-B52C-41F6-99CE-683840EF32B0}|..\\OrderProcessingBLL\\OrderProcessingBLL.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessingbll\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C5B92-8B57-4D94-BAB1-C6E7570C6512}|..\\DTOs\\DTOs.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\dtos\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F373540-B52C-41F6-99CE-683840EF32B0}|..\\OrderProcessingBLL\\OrderProcessingBLL.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessingbll\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21C5B92-8B57-4D94-BAB1-C6E7570C6512}|..\\DTOs\\DTOs.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\dtos\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7CB71-4473-449B-9089-0E9D1B83A46A}|..\\OrderProcessingDAL\\OrderProcessingDAL.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessingdal\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7CB71-4473-449B-9089-0E9D1B83A46A}|..\\OrderProcessingDAL\\OrderProcessingDAL.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessingdal\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7CB71-4473-449B-9089-0E9D1B83A46A}|..\\OrderProcessingDAL\\OrderProcessingDAL.csproj|c:\\users\\zohaib\\source\\repos\\scd assignment 1\\orderprocessingdal\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingTests\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\OrderProcessingTests\\OrderServiceTests.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingTests\\OrderServiceTests.cs",
+              "RelativeToolTip": "..\\OrderProcessingTests\\OrderServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:17:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessing\\Application.cs",
+              "RelativeDocumentMoniker": "Application.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessing\\Application.cs",
+              "RelativeToolTip": "Application.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAkwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T21:19:43.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\DTOs\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\Customer.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\DTOs\\Customer.cs",
+              "RelativeToolTip": "..\\DTOs\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T19:46:19.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\DTOs\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\DTOs\\OrderItem.cs",
+              "RelativeToolTip": "..\\DTOs\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T19:41:25.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingBLL\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\OrderProcessingBLL\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingBLL\\IOrderService.cs",
+              "RelativeToolTip": "..\\OrderProcessingBLL\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:54:03.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:16:29.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingDAL\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\OrderProcessingDAL\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingDAL\\GenericRepository.cs",
+              "RelativeToolTip": "..\\OrderProcessingDAL\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:54:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingBLL\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\OrderProcessingBLL\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingBLL\\OrderService.cs",
+              "RelativeToolTip": "..\\OrderProcessingBLL\\OrderService.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAADwv4QAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:02:56.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingDAL\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\OrderProcessingDAL\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingDAL\\OrderRepository.cs",
+              "RelativeToolTip": "..\\OrderProcessingDAL\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:03:41.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingDAL\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\OrderProcessingDAL\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingDAL\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\OrderProcessingDAL\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:39:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingDAL\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\OrderProcessingDAL\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Zohaib\\source\\repos\\SCD Assignment 1\\OrderProcessingDAL\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\OrderProcessingDAL\\IGenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:03:39.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

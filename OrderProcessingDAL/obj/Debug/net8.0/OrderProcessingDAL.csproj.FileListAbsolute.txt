@@ -1,0 +1,30 @@
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\bin\Debug\net8.0\OrderProcessingDAL.deps.json
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\bin\Debug\net8.0\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\bin\Debug\net8.0\OrderProcessingDAL.pdb
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\bin\Debug\net8.0\DTOs.dll
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.csproj.AssemblyReference.cache
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.AssemblyInfoInputs.cache
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.AssemblyInfo.cs
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\OrderPro.98AD4586.Up2Date
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\refint\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.pdb
+C:\Users\Zohaib\source\repos\OrderProcessingDAL\obj\Debug\net8.0\ref\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\bin\Debug\net8.0\OrderProcessingDAL.deps.json
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\bin\Debug\net8.0\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\bin\Debug\net8.0\OrderProcessingDAL.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\bin\Debug\net8.0\DTOs.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.csproj.AssemblyReference.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.AssemblyInfoInputs.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.AssemblyInfo.cs
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\OrderPro.98AD4586.Up2Date
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\refint\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\OrderProcessingDAL.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessingDAL\obj\Debug\net8.0\ref\OrderProcessingDAL.dll

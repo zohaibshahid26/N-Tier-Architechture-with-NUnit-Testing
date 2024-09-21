@@ -1,0 +1,62 @@
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessing.exe
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessing.deps.json
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessing.runtimeconfig.json
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessing.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessing.pdb
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\Dapper.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\DTOs.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessingBLL.pdb
+C:\Users\Zohaib\source\repos\OrderProcessing\bin\Debug\net8.0\OrderProcessingDAL.pdb
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderProcessing.csproj.AssemblyReference.cache
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderProcessing.AssemblyInfo.cs
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderPro.3C1BC4D2.Up2Date
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderProcessing.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\refint\OrderProcessing.dll
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderProcessing.pdb
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\OrderProcessing.genruntimeconfig.cache
+C:\Users\Zohaib\source\repos\OrderProcessing\obj\Debug\net8.0\ref\OrderProcessing.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessing.exe
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessing.deps.json
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessing.runtimeconfig.json
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessing.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessing.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\Dapper.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\DTOs.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessingBLL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessingDAL.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessingBLL.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\bin\Debug\net8.0\OrderProcessingDAL.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderProcessing.csproj.AssemblyReference.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderProcessing.AssemblyInfo.cs
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderPro.3C1BC4D2.Up2Date
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderProcessing.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\refint\OrderProcessing.dll
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderProcessing.pdb
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\OrderProcessing.genruntimeconfig.cache
+C:\Users\Zohaib\source\repos\SCD Assignment 1\OrderProcessing\obj\Debug\net8.0\ref\OrderProcessing.dll
